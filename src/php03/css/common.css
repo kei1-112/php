@@ -1,0 +1,8 @@
+.header{
+    background:black;
+    color:white;
+}
+.header__title{
+    margin:0 auto;
+    padding:15px 100px;
+}

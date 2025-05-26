@@ -1,0 +1,27 @@
+.result{
+    text-align:center;
+}
+
+.result__ok_or_not{
+    font-weight:bold;
+    margin-top:30px;
+}
+
+.answer{
+    margin: 20px auto;
+    border:1px solid black;
+}
+
+.table__header{
+    background:rgb(217, 217, 217);
+    width:300px;
+}
+
+.table__dtl{
+    width:400px;
+    padding:15px;
+    text-align:left;
+}
+.table__dtl, .table__header{
+    border: 1px solid rgb(176, 176, 176);
+}
